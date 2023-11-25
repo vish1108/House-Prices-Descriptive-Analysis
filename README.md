@@ -34,7 +34,7 @@ Using Pythin code i saved the clean & Processed data for Power BI
 ## [Power BI  Dashboard](https://github.com/vish1108/House-Prices-Descriptive-Analysis/blob/master/Power%20BI%20Visualization.pbix)
 Power BI dashboard has been created to visually represent the findings of the analysis over the twenty-year period. The dashboard provides an intuitive and insightful display of key trends and relationships.
 
-## Dashboard Image :
+## Dashboard [Image](https://github.com/vish1108/House-Prices-Descriptive-Analysis/blob/master/Screenshot%202023-11-25%20024018.png) :
 
 <img width="505" alt="Screenshot 2023-11-25 024018" src="https://github.com/vish1108/House-Prices-Descriptive-Analysis/assets/68471486/589f55c1-3141-4fa6-8d1d-40c83169dc83">
 
