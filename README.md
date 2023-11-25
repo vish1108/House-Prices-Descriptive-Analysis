@@ -9,7 +9,7 @@ Find publicly available data for key factors that influence US home prices natio
 
 # Steps:
 
-## Data Collection
+## [Data](https://fred.stlouisfed.org/series/CSUSHPISA) Collection
 For this project i did some research by my self from wall street journal & yahoo finance, Most of the Data was collected from [CSUSHPISA](https://fred.stlouisfed.org/series/CSUSHPISA)
 This Data include different financial data such as PCE, CPI, Inflation rate etc.
 
@@ -22,16 +22,16 @@ Utilizing a correlation matrix, it was determined that PCE has a significant imp
 ## Model Evaluation
 The selected model demonstrated its effectiveness, with a Mean Squared Error on the test set of 4.07429350980393 and an R-squared value on the test set of 0.9966914823726227, indicating strong predictive capabilities.
 
-## Temporal Analysis
+## [Temporal Analysis](https://github.com/vish1108/House-Prices-Descriptive-Analysis/blob/master/Exploring_HousingData.ipynb)
 To further enhance the predictive model, the date table was split into year and month, enabling a more granular analysis. This refined model, combined with PCE, provided improved predictions of house prices over time.
 
-## Predicting PCE
+## [Predicting PCE](https://github.com/vish1108/House-Prices-Descriptive-Analysis/blob/master/PCE%20Linear%20Regression.ipynb)
 As part of the analysis, PCE was predicted over the entire time range (1960 to 2022). This allows users to explore and understand how PCE affect prices of House,and this step is usefull to find right PCE for prediction.
 
-## Finacial Data
+## [Finacial Data](https://github.com/vish1108/House-Prices-Descriptive-Analysis/blob/master/Data/financial_data.csv)
 Using Pythin code i saved the clean & Processed data for Power BI
 
-## Power BI Dashboard
+## [Power BI  Dashboard](https://github.com/vish1108/House-Prices-Descriptive-Analysis/blob/master/Power%20BI%20Visualization.pbix)
 Power BI dashboard has been created to visually represent the findings of the analysis over the twenty-year period. The dashboard provides an intuitive and insightful display of key trends and relationships.
 
 ## Dashboard Image :
