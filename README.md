@@ -13,6 +13,9 @@ Find publicly available data for key factors that influence US home prices natio
 For this project i did some research by my self from wall street journal & yahoo finance, Most of the Data was collected from [CSUSHPISA](https://fred.stlouisfed.org/series/CSUSHPISA)
 This Data include different financial data such as PCE, CPI, Inflation rate etc.
 
+## Data Model :
+<img width="632" alt="House Price Data Model" src="https://github.com/vish1108/House-Prices-Descriptive-Analysis/assets/68471486/24fb3c92-8550-4ed5-a10a-2f92f4cc03f2">
+
 ## Data Cleaning and Integration
 The collected data was cleaned and processed to ensure accuracy and reliability. Date and year were utilized as common elements to connect different data frames over a specified time span. This integrated approach aimed to unveil patterns and correlations between various factors and house prices.
 
